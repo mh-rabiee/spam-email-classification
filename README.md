@@ -29,9 +29,6 @@ The features describe characteristics of email content, including:
   - Longest uninterrupted capital-letter sequence
   - Total number of capital letters
 
-The dataset is not included in this repository. It can be obtained from the UCI Machine Learning Repository:
-[UCI Machine Learning Repository — Spambase](https://archive.ics.uci.edu/dataset/94/spambase)
-
 ### Repository files
 
 | File | Description |
